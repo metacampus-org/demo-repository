@@ -1,0 +1,609 @@
+2025-10-12T07:19:06: PM2 log: ===============================================================================
+2025-10-12T07:19:06: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-12T07:19:06: PM2 log: Time                 : Sun Oct 12 2025 07:19:06 GMT+0000 (Coordinated Universal Time)
+2025-10-12T07:19:06: PM2 log: PM2 version          : 6.0.13
+2025-10-12T07:19:06: PM2 log: Node.js version      : 20.19.5
+2025-10-12T07:19:06: PM2 log: Current arch         : x64
+2025-10-12T07:19:06: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-12T07:19:06: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-12T07:19:06: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-12T07:19:06: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-12T07:19:06: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-12T07:19:06: PM2 log: Worker Interval      : 30000
+2025-10-12T07:19:06: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-12T07:19:06: PM2 log: Concurrent actions   : 2
+2025-10-12T07:19:06: PM2 log: SIGTERM timeout      : 1600
+2025-10-12T07:19:06: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-12T07:19:06: PM2 log: ===============================================================================
+2025-10-12T07:19:06: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:06: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:07: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:07: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:07: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:08: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:08: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:08: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:09: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:09: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:09: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:10: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:10: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:10: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:10: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:10: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:10: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:11: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:11: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:11: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:12: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:12: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:12: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:13: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:13: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:13: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:13: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:13: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:13: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:14: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:14: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:14: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:15: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:15: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:15: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:16: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:16: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:16: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:16: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:16: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:16: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:17: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:17: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:17: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:18: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:18: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:18: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:19: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:19: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:19:19: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:19:19: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:19:19: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2025-10-12T07:20:05: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:05: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:06: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:06: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:06: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:07: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:07: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:07: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:08: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:08: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:08: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:09: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:09: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:09: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:10: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:10: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:10: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:11: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:11: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:11: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:11: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:11: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:11: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:12: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:12: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:12: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:13: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:13: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:13: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:14: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:14: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:14: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:15: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:15: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:15: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:15: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:15: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:15: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:16: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:16: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:16: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:17: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:17: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:17: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:18: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:18: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:20:18: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:20:19: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:19: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2025-10-12T07:20:30: PM2 log: Stopping app:hackathon-app id:0
+2025-10-12T07:20:30: PM2 error: app=hackathon-app id=0 does not have a pid
+2025-10-12T07:20:30: PM2 log: Stopping app:hackathon-app id:1
+2025-10-12T07:20:30: PM2 error: app=hackathon-app id=1 does not have a pid
+2025-10-12T07:20:44: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:44: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:44: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:44: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:44: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:45: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:45: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:45: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:46: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:46: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:46: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:47: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:47: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:47: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:47: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:47: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:47: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:48: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:48: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:48: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:49: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:49: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:49: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:50: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:50: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:50: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:51: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:51: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:51: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:51: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:51: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:51: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:52: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:52: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:52: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:53: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:53: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:53: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:54: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:54: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:54: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:54: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:54: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:54: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:55: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:55: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:20:55: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:20:56: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:20:56: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2025-10-12T07:21:18: PM2 log: Stopping app:hackathon-app id:0
+2025-10-12T07:21:18: PM2 error: app=hackathon-app id=0 does not have a pid
+2025-10-12T07:21:40: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:40: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:41: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:41: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:41: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:41: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:41: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:41: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:42: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:42: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:42: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:43: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:43: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:43: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:44: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:44: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:44: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:44: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:44: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:44: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:45: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:45: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:45: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:46: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:46: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:46: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:47: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:47: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:47: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:47: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:47: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:47: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:48: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:48: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:48: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:49: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:49: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:49: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:50: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:50: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:50: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:50: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:50: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:50: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:51: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:51: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:21:51: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:21:52: PM2 log: App [hackathon-app:1] exited with code [1] via signal [SIGINT]
+2025-10-12T07:21:52: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2025-10-12T07:22:16: PM2 log: Stopping app:hackathon-app id:1
+2025-10-12T07:22:16: PM2 error: app=hackathon-app id=1 does not have a pid
+2025-10-12T07:22:26: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:26: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:27: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:27: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:27: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:28: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:28: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:28: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:29: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:29: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:29: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:29: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:29: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:29: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:30: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:30: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:30: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:31: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:31: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:31: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:32: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:32: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:32: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:33: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:33: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:33: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:33: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:33: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:33: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:34: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:34: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:34: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:35: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:35: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:35: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:36: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:36: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:36: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:37: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:37: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:37: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:37: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:37: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:37: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:38: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:38: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:22:38: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:22:39: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:22:39: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2025-10-12T07:24:42: PM2 log: Stopping app:hackathon-app id:0
+2025-10-12T07:24:42: PM2 error: app=hackathon-app id=0 does not have a pid
+2025-10-12T07:31:12: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:12: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:12: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:12: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:12: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:13: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:13: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:13: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:14: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:14: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:14: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:15: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:15: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:15: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:15: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:15: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:15: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:16: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:16: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:16: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:17: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:17: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:17: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:18: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:18: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:18: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:18: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:18: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:18: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:19: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:19: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:19: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:20: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:20: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:20: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:21: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:21: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:21: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:21: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:21: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:21: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:22: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:22: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:22: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:23: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:23: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T07:31:23: PM2 log: App [hackathon-app:0] online
+2025-10-12T07:31:24: PM2 log: App [hackathon-app:0] exited with code [1] via signal [SIGINT]
+2025-10-12T07:31:24: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2025-10-12T07:32:45: PM2 log: Stopping app:hackathon-app id:0
+2025-10-12T07:32:45: PM2 error: app=hackathon-app id=0 does not have a pid
+2025-10-12T07:38:43: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:38:43: PM2 log: App [hackathon-app:1] online
+2025-10-12T07:39:33: PM2 log: Process 1 in a stopped status, starting it
+2025-10-12T07:39:33: PM2 log: Stopping app:hackathon-app id:1
+2025-10-12T07:39:34: PM2 log: App [hackathon-app:1] exited with code [0] via signal [SIGINT]
+2025-10-12T07:39:34: PM2 log: pid=7555 msg=process killed
+2025-10-12T07:39:34: PM2 log: App [hackathon-app:1] starting in -fork mode-
+2025-10-12T07:39:34: PM2 log: App [hackathon-app:1] online
+2025-10-12T08:12:50: PM2 log: ===============================================================================
+2025-10-12T08:12:51: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-12T08:12:51: PM2 log: Time                 : Sun Oct 12 2025 08:12:51 GMT+0000 (Coordinated Universal Time)
+2025-10-12T08:12:51: PM2 log: PM2 version          : 6.0.13
+2025-10-12T08:12:51: PM2 log: Node.js version      : 20.19.5
+2025-10-12T08:12:51: PM2 log: Current arch         : x64
+2025-10-12T08:12:51: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-12T08:12:51: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-12T08:12:51: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-12T08:12:51: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-12T08:12:51: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-12T08:12:51: PM2 log: Worker Interval      : 30000
+2025-10-12T08:12:51: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-12T08:12:51: PM2 log: Concurrent actions   : 2
+2025-10-12T08:12:51: PM2 log: SIGTERM timeout      : 1600
+2025-10-12T08:12:51: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-12T08:12:51: PM2 log: ===============================================================================
+2025-10-12T08:12:51: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T08:12:51: PM2 log: App [hackathon-app:0] online
+2025-10-12T18:29:01: PM2 log: Stopping app:hackathon-app id:0
+2025-10-12T18:29:01: PM2 log: App [hackathon-app:0] exited with code [0] via signal [SIGINT]
+2025-10-12T18:29:01: PM2 log: pid=1112 msg=process killed
+2025-10-12T18:29:01: PM2 log: PM2 successfully stopped
+2025-10-12T18:29:19: PM2 log: ===============================================================================
+2025-10-12T18:29:19: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-12T18:29:19: PM2 log: Time                 : Sun Oct 12 2025 18:29:19 GMT+0000 (Coordinated Universal Time)
+2025-10-12T18:29:19: PM2 log: PM2 version          : 6.0.13
+2025-10-12T18:29:19: PM2 log: Node.js version      : 20.19.5
+2025-10-12T18:29:19: PM2 log: Current arch         : x64
+2025-10-12T18:29:19: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-12T18:29:19: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-12T18:29:19: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-12T18:29:19: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-12T18:29:19: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-12T18:29:19: PM2 log: Worker Interval      : 30000
+2025-10-12T18:29:19: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-12T18:29:19: PM2 log: Concurrent actions   : 2
+2025-10-12T18:29:19: PM2 log: SIGTERM timeout      : 1600
+2025-10-12T18:29:19: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-12T18:29:19: PM2 log: ===============================================================================
+2025-10-12T18:29:19: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T18:29:19: PM2 log: App [hackathon-app:0] online
+2025-10-12T18:42:11: PM2 log: ===============================================================================
+2025-10-12T18:42:13: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-12T18:42:13: PM2 log: Time                 : Sun Oct 12 2025 18:42:13 GMT+0000 (Coordinated Universal Time)
+2025-10-12T18:42:13: PM2 log: PM2 version          : 6.0.13
+2025-10-12T18:42:13: PM2 log: Node.js version      : 20.19.5
+2025-10-12T18:42:13: PM2 log: Current arch         : x64
+2025-10-12T18:42:13: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-12T18:42:13: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-12T18:42:13: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-12T18:42:13: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-12T18:42:13: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-12T18:42:13: PM2 log: Worker Interval      : 30000
+2025-10-12T18:42:13: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-12T18:42:13: PM2 log: Concurrent actions   : 2
+2025-10-12T18:42:13: PM2 log: SIGTERM timeout      : 1600
+2025-10-12T18:42:13: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-12T18:42:13: PM2 log: ===============================================================================
+2025-10-12T18:42:13: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T18:42:13: PM2 log: App [hackathon-app:0] online
+2025-10-12T18:44:33: PM2 log: Stopping app:hackathon-app id:0
+2025-10-12T18:44:33: PM2 log: App [hackathon-app:0] exited with code [0] via signal [SIGINT]
+2025-10-12T18:44:33: PM2 log: pid=1091 msg=process killed
+2025-10-12T18:44:33: PM2 log: PM2 successfully stopped
+2025-10-12T18:44:53: PM2 log: ===============================================================================
+2025-10-12T18:44:53: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-12T18:44:53: PM2 log: Time                 : Sun Oct 12 2025 18:44:53 GMT+0000 (Coordinated Universal Time)
+2025-10-12T18:44:53: PM2 log: PM2 version          : 6.0.13
+2025-10-12T18:44:53: PM2 log: Node.js version      : 20.19.5
+2025-10-12T18:44:53: PM2 log: Current arch         : x64
+2025-10-12T18:44:53: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-12T18:44:53: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-12T18:44:53: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-12T18:44:53: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-12T18:44:53: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-12T18:44:53: PM2 log: Worker Interval      : 30000
+2025-10-12T18:44:53: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-12T18:44:53: PM2 log: Concurrent actions   : 2
+2025-10-12T18:44:53: PM2 log: SIGTERM timeout      : 1600
+2025-10-12T18:44:53: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-12T18:44:53: PM2 log: ===============================================================================
+2025-10-12T18:44:53: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-12T18:44:53: PM2 log: App [hackathon-app:0] online
+2025-10-14T16:24:27: PM2 log: Stopping app:hackathon-app id:0
+2025-10-14T16:24:27: PM2 log: App [hackathon-app:0] exited with code [0] via signal [SIGINT]
+2025-10-14T16:24:27: PM2 log: pid=986 msg=process killed
+2025-10-14T16:24:27: PM2 log: PM2 successfully stopped
+2025-10-14T16:24:49: PM2 log: ===============================================================================
+2025-10-14T16:24:49: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-14T16:24:49: PM2 log: Time                 : Tue Oct 14 2025 16:24:49 GMT+0000 (Coordinated Universal Time)
+2025-10-14T16:24:49: PM2 log: PM2 version          : 6.0.13
+2025-10-14T16:24:49: PM2 log: Node.js version      : 20.19.5
+2025-10-14T16:24:49: PM2 log: Current arch         : x64
+2025-10-14T16:24:49: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-14T16:24:49: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-14T16:24:49: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-14T16:24:49: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-14T16:24:49: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-14T16:24:49: PM2 log: Worker Interval      : 30000
+2025-10-14T16:24:49: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-14T16:24:49: PM2 log: Concurrent actions   : 2
+2025-10-14T16:24:49: PM2 log: SIGTERM timeout      : 1600
+2025-10-14T16:24:49: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-14T16:24:49: PM2 log: ===============================================================================
+2025-10-14T16:24:49: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-14T16:24:49: PM2 log: App [hackathon-app:0] online
+2025-10-14T20:16:57: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-14T20:58:43: PM2 log: Stopping app:hackathon-app id:0
+2025-10-14T20:58:43: PM2 log: App [hackathon-app:0] exited with code [0] via signal [SIGINT]
+2025-10-14T20:58:43: PM2 log: pid=940 msg=process killed
+2025-10-14T20:58:43: PM2 log: PM2 successfully stopped
+2025-10-14T21:00:27: PM2 log: ===============================================================================
+2025-10-14T21:00:27: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-14T21:00:27: PM2 log: Time                 : Tue Oct 14 2025 21:00:27 GMT+0000 (Coordinated Universal Time)
+2025-10-14T21:00:27: PM2 log: PM2 version          : 6.0.13
+2025-10-14T21:00:27: PM2 log: Node.js version      : 20.19.5
+2025-10-14T21:00:27: PM2 log: Current arch         : x64
+2025-10-14T21:00:27: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-14T21:00:27: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-14T21:00:27: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-14T21:00:27: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-14T21:00:27: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-14T21:00:27: PM2 log: Worker Interval      : 30000
+2025-10-14T21:00:27: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-14T21:00:27: PM2 log: Concurrent actions   : 2
+2025-10-14T21:00:27: PM2 log: SIGTERM timeout      : 1600
+2025-10-14T21:00:27: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-14T21:00:27: PM2 log: ===============================================================================
+2025-10-14T21:00:27: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-14T21:00:27: PM2 log: App [hackathon-app:0] online
+2025-10-14T21:00:36: PM2 log: Stopping app:hackathon-app id:0
+2025-10-14T21:00:36: PM2 log: App [hackathon-app:0] exited with code [0] via signal [SIGINT]
+2025-10-14T21:00:36: PM2 log: pid=1041 msg=process killed
+2025-10-14T21:00:36: PM2 log: PM2 successfully stopped
+2025-10-14T21:01:00: PM2 log: ===============================================================================
+2025-10-14T21:01:00: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-14T21:01:00: PM2 log: Time                 : Tue Oct 14 2025 21:01:00 GMT+0000 (Coordinated Universal Time)
+2025-10-14T21:01:00: PM2 log: PM2 version          : 6.0.13
+2025-10-14T21:01:00: PM2 log: Node.js version      : 20.19.5
+2025-10-14T21:01:00: PM2 log: Current arch         : x64
+2025-10-14T21:01:00: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-14T21:01:00: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-14T21:01:00: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-14T21:01:00: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-14T21:01:00: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-14T21:01:00: PM2 log: Worker Interval      : 30000
+2025-10-14T21:01:00: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-14T21:01:00: PM2 log: Concurrent actions   : 2
+2025-10-14T21:01:00: PM2 log: SIGTERM timeout      : 1600
+2025-10-14T21:01:00: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-14T21:01:00: PM2 log: ===============================================================================
+2025-10-14T21:01:00: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-14T21:01:00: PM2 log: App [hackathon-app:0] online
+2025-10-14T21:09:52: PM2 log: Stopping app:hackathon-app id:0
+2025-10-14T21:09:52: PM2 log: App [hackathon-app:0] exited with code [0] via signal [SIGINT]
+2025-10-14T21:09:52: PM2 log: pid=998 msg=process killed
+2025-10-14T21:14:21: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-14T21:14:21: PM2 log: App [hackathon-app:0] online
+2025-10-15T03:27:02: PM2 log: ===============================================================================
+2025-10-15T03:27:02: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-15T03:27:02: PM2 log: Time                 : Wed Oct 15 2025 03:27:02 GMT+0000 (Coordinated Universal Time)
+2025-10-15T03:27:02: PM2 log: PM2 version          : 6.0.13
+2025-10-15T03:27:02: PM2 log: Node.js version      : 20.19.5
+2025-10-15T03:27:02: PM2 log: Current arch         : x64
+2025-10-15T03:27:02: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-15T03:27:02: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-15T03:27:02: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-15T03:27:02: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-15T03:27:02: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-15T03:27:02: PM2 log: Worker Interval      : 30000
+2025-10-15T03:27:02: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-15T03:27:02: PM2 log: Concurrent actions   : 2
+2025-10-15T03:27:02: PM2 log: SIGTERM timeout      : 1600
+2025-10-15T03:27:02: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-15T03:27:02: PM2 log: ===============================================================================
+2025-10-15T03:27:02: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-15T03:27:02: PM2 log: App [hackathon-app:0] online
+2025-10-15T07:58:07: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-15T13:34:34: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-15T16:04:02: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-15T18:04:47: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-15T19:32:00: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-15T20:53:52: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-15T21:44:48: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-15T22:40:16: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-15T23:11:05: PM2 log: ===============================================================================
+2025-10-15T23:11:05: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-15T23:11:05: PM2 log: Time                 : Wed Oct 15 2025 23:11:05 GMT+0000 (Coordinated Universal Time)
+2025-10-15T23:11:05: PM2 log: PM2 version          : 6.0.13
+2025-10-15T23:11:05: PM2 log: Node.js version      : 20.19.5
+2025-10-15T23:11:05: PM2 log: Current arch         : x64
+2025-10-15T23:11:05: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-15T23:11:05: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-15T23:11:05: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-15T23:11:05: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-15T23:11:05: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-15T23:11:05: PM2 log: Worker Interval      : 30000
+2025-10-15T23:11:05: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-15T23:11:05: PM2 log: Concurrent actions   : 2
+2025-10-15T23:11:05: PM2 log: SIGTERM timeout      : 1600
+2025-10-15T23:11:05: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-15T23:11:05: PM2 log: ===============================================================================
+2025-10-15T23:11:05: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-15T23:11:05: PM2 log: App [hackathon-app:0] online
+2025-10-16T08:14:44: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-16T19:32:04: PM2 log: Stopping app:hackathon-app id:0
+2025-10-16T19:32:05: PM2 log: pid=1016 msg=failed to kill - retrying in 100ms
+2025-10-16T19:32:05: PM2 log: pid=1016 msg=failed to kill - retrying in 100ms
+2025-10-16T19:32:05: PM2 log: pid=1016 msg=failed to kill - retrying in 100ms
+2025-10-16T19:32:05: PM2 log: pid=1016 msg=failed to kill - retrying in 100ms
+2025-10-16T19:32:05: PM2 log: App [hackathon-app:0] exited with code [0] via signal [SIGINT]
+2025-10-16T19:32:05: PM2 log: pid=1016 msg=process killed
+2025-10-16T19:32:05: PM2 log: PM2 successfully stopped
+2025-10-16T19:32:26: PM2 log: ===============================================================================
+2025-10-16T19:32:26: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-16T19:32:26: PM2 log: Time                 : Thu Oct 16 2025 19:32:26 GMT+0000 (Coordinated Universal Time)
+2025-10-16T19:32:26: PM2 log: PM2 version          : 6.0.13
+2025-10-16T19:32:26: PM2 log: Node.js version      : 20.19.5
+2025-10-16T19:32:26: PM2 log: Current arch         : x64
+2025-10-16T19:32:26: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-16T19:32:26: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-16T19:32:26: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-16T19:32:26: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-16T19:32:26: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-16T19:32:26: PM2 log: Worker Interval      : 30000
+2025-10-16T19:32:26: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-16T19:32:26: PM2 log: Concurrent actions   : 2
+2025-10-16T19:32:26: PM2 log: SIGTERM timeout      : 1600
+2025-10-16T19:32:26: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-16T19:32:26: PM2 log: ===============================================================================
+2025-10-16T19:32:27: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-16T19:32:27: PM2 log: App [hackathon-app:0] online
+2025-10-17T05:24:38: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T07:44:32: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T08:35:51: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T09:28:46: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T10:22:43: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T11:25:33: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T12:12:14: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T12:58:50: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T13:45:28: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T15:29:37: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T16:12:25: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T16:57:11: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T17:42:10: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T18:22:11: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-17T19:09:28: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-18T06:06:57: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2025-10-19T14:40:22: PM2 log: Stopping app:hackathon-app id:0
+2025-10-19T14:40:22: PM2 log: pid=1002 msg=failed to kill - retrying in 100ms
+2025-10-19T14:40:22: PM2 log: pid=1002 msg=failed to kill - retrying in 100ms
+2025-10-19T14:40:22: PM2 log: pid=1002 msg=failed to kill - retrying in 100ms
+2025-10-19T14:40:22: PM2 log: App [hackathon-app:0] exited with code [0] via signal [SIGINT]
+2025-10-19T14:40:22: PM2 log: pid=1002 msg=process killed
+2025-10-19T14:40:23: PM2 log: PM2 successfully stopped
+2025-10-19T14:40:44: PM2 log: ===============================================================================
+2025-10-19T14:40:44: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-19T14:40:44: PM2 log: Time                 : Sun Oct 19 2025 14:40:44 GMT+0000 (Coordinated Universal Time)
+2025-10-19T14:40:44: PM2 log: PM2 version          : 6.0.13
+2025-10-19T14:40:44: PM2 log: Node.js version      : 20.19.5
+2025-10-19T14:40:44: PM2 log: Current arch         : x64
+2025-10-19T14:40:44: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-10-19T14:40:44: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-10-19T14:40:44: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-10-19T14:40:44: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-10-19T14:40:44: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-10-19T14:40:44: PM2 log: Worker Interval      : 30000
+2025-10-19T14:40:44: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-10-19T14:40:44: PM2 log: Concurrent actions   : 2
+2025-10-19T14:40:44: PM2 log: SIGTERM timeout      : 1600
+2025-10-19T14:40:44: PM2 log: Runtime Binary       : /usr/bin/node
+2025-10-19T14:40:44: PM2 log: ===============================================================================
+2025-10-19T14:40:44: PM2 log: App [hackathon-app:0] starting in -fork mode-
+2025-10-19T14:40:44: PM2 log: App [hackathon-app:0] online
