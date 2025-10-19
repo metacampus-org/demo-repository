@@ -318,3 +318,67 @@ cd ../
 ls
 cd 8608.
 exit
+cd home
+ls
+cd ../
+cd ubuntu
+cd .ssh
+nano authorized_keys
+ls proc
+ps
+cd ../
+cd home
+ps
+top
+sigkill 541
+kill 541
+sudo kill 541
+top
+readlink -f /proc/1291/exe
+pwdx 1291
+sudo pwdx 1291
+ls
+sudo apt-get install git
+git add 
+git add ./
+git status
+git init
+git config
+git remote add origin https://github.com/metacampus-org/demo-repository.git
+git add
+git add .
+git push -u origin main
+git commit -m "Initial Commit"
+git config --global user.email "georgeartem@gmail.com"
+git config --global user.name "georgeartem"
+git commit -m "Initial Commit"
+git push -u origin main
+git push
+git push --set-upstream origin master
+git pull
+git push --set-upstream origin master
+git init
+git config
+git push --set-upstream origin master
+git config --global credential.helper store
+git push --set-upstream origin master
+exit
+docker container ls
+cd home
+cd ubuntu
+ls
+sudo docker container ls
+sudo apt install docker
+sudo apt install docker -v latest
+sudo apt install docker
+sudo apt install wmdocker
+sudo docker container ls
+docker container ls
+wmdocker container ls
+sudo apt install postgresql
+cd .ssh
+nano authorized_keys
+exit
+cd .ssh
+nano authorized_keys
+exit
