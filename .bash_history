@@ -382,3 +382,56 @@ exit
 cd .ssh
 nano authorized_keys
 exit
+ls
+git add easy-a-hackathon
+git commit --amend --no-edit
+git push
+git push --help
+git push --set-upstream
+git pull
+git config pull.ff only
+git pull
+git rebase
+git merge --no-ff
+git config pull.ff only
+git pull
+git config advice.diverging false
+git push
+git pull
+git merge
+git add easy-a-hackathon
+git commit
+git commit -a
+git add /easy-a-hackathon
+git add easy-a-hackathon
+git commit
+git pull
+git config --global user.name georgeartem
+git config --global user.email georgeartem@gmail.com
+git add easy-a-hackathon
+git commit -m "adding easy-a files"
+git restore easy-a-hackathon
+git add easy-a-hackathon
+git commit -m "adding easy-a files"
+ls
+git add easy-a-hackathon
+git commit
+top
+cd easy-a-hackathon
+ls
+cd ../
+ls
+locate postgresql
+fd postgresql
+find postgresql
+find postgres
+sudo apt install postgresql
+find postgresql
+cd ../
+ls
+cd ../
+ls
+cd home/ubuntu
+sudo systemctl status postgresql
+psql -V
+sudo -i -u postgres
