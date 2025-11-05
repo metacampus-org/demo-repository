@@ -29,11 +29,14 @@ At this time, the intent is to open source an alpha release with an MIT attribut
 
 The development environment is presently hosted on AWS and can be accessed using the provided credentials by logging in with your username here:
 <https://d-906629a92a.awsapps.com/start>
+you will also need to enter the following AWS Account ID: 438499431238
 
 There you will find three EC2 machines...
 
 dev servers
+
 Dev-4 18.119.1.196
+
 Dev-3 18.222.131.229
 
 <https://demo.metacampus.org>
