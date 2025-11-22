@@ -47,6 +47,17 @@ demo server
 
 3.149.193.236
 
+| Developer   |  Username    |
+| ----------- | ------------ |
+|Ehu          | ehus         |
+|Rohan        | rohans       |
+|Tyler        | tyler.rosa   |
+|Neil         | nielf        |
+|Argenis      | argenis      |
+|George       | george       |
+
+Apologies for the misspelling😅
+
 You can use PuTTY or OpenSSH as appropriate and use the keys provided to gain access to each of these servers. Please reach out to info@metacampus.org if you do not have and require a key or experience any issues.
 
 The idea here is to create an environment for developers to build, test and learn on Dev-3 and Dev-4 before code is pushed to production in the demo environment. These are EC2 machines where docker containers can be deployed - eventually we will migrate to an EKS environment to host as much as possible - but we need to be certain this is within our skill set and I am not certain of that at this point in time.
