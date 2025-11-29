@@ -7,7 +7,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
-> A decentralized platform for managing academic transcripts and course completion badges on the Algorand blockchain.
+> A decentralized platform for academic administration through a massively open online, decentralized autonomous organization, delivering efficiency tokenomics via student owned transcripts, validation of competency, and a process for agentic credentialing on the Algorand blockchain.
 
 ---
 
@@ -25,8 +25,14 @@
 - ✅ **Approve Badges** - Review and approve badge requests
 - 🔐 **Verify Records** - Validate student credentials
 
+### For Corporations
+- 👨‍🎓 **Onboard Employees** - Register new personnel on the blockchain
+- 📚 **Manage Corporate Learning** - Add courses and update personnel records
+- ✅ **Approve Badges** - Review and approve badge requests
+- 🔐 **Verify Records** - Validate credentials
+
 ### For Super Admins
-- 🏛️ **University Management** - Approve university registrations
+- 🏛️ **Institution Management** - Approve registrations
 - 📊 **System Statistics** - Monitor platform-wide metrics
 - 🔗 **Blockchain Monitoring** - Track all transactions
 
@@ -61,8 +67,8 @@ npm run dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
+Open [https://localhost:3000](https://localhost:3000) in your browser.
+\\add socket layer encryption security feature
 ---
 
 ## 🔧 Configuration
@@ -147,13 +153,18 @@ metacampus/
 
 #### Authentication Contract
 - **App ID:** `733353488`
-- **Purpose:** User role management (student, university, super admin)
+- **Purpose:** User role management (student, university, *corporate admin*, super admin)
 - **Explorer:** [View on Lora](https://lora.algokit.io/testnet/application/733353488)
 
 #### Badge Management Contract
 - **App ID:** `733353489`
 - **Purpose:** Course completion badge issuance and verification
 - **Explorer:** [View on Lora](https://lora.algokit.io/testnet/application/733353489)
+
+#### EQ2 Derivative Specialization Token Issuance
+- **App ID:** `*`
+- **Purpose:** Define Expected User Object State
+- **Explorer:** [View on Lora](https://lora.algokit.io/testnet/application/*)
 
 ---
 
@@ -171,11 +182,17 @@ metacampus/
 - Approve badge requests
 - Verify student records
 
-### Super Admin (Role: 2)
-- Approve university registrations
+### **Corporate Admin (Role: 2)**
+- *Onboard personnel*
+- *Add EQ2 Specialization Tokens to personnel file*
+- *Track Expected vs. Actual Efficiency*
+- *Verify prior records*
+
+### Super Admin (Role: 3)
+- Approve institutional registrations
 - View system-wide statistics
 - Monitor blockchain transactions
-- Manage platform settings
+- *Ensure correct manifold settings*
 
 ---
 
@@ -199,6 +216,12 @@ metacampus/
 3. Admin approves badge
 4. Badge minted on blockchain
 5. Badge appears in student profile
+
+### Personnel Onboarding
+1. Corporate HR Admin Onboarding
+2. Validation and Update of Personnel Files
+3. EQ2 Efficiency Token Assignment
+4. Model organizational efficiency gains
 
 ---
 
@@ -246,38 +269,38 @@ npm start
 
 ## 🚀 Deployment
 
-### Deploy to Vercel (Recommended)
+### Deploy to AWS
 
 1. **Push to GitHub:**
    ```bash
    git init
    git add .
-   git commit -m "Initial commit"
-   git remote add origin https://github.com/YOUR_USERNAME/metacampus.git
-   git push -u origin master
+   git commit -m "your commit message"
+   git remote add origin https://github.com/metacampus-org/demo-repository.git
+   git push -u origin [YOUR BRANCH]
    ```
+2. **Submit Pull Request to Master:**
+   instructions for submitting a proper pull request are outlined in README.md
 
-2. **Deploy to Vercel:**
-   - Go to [vercel.com/new](https://vercel.com/new)
-   - Import your GitHub repository
-   - Add environment variables
-   - Click "Deploy"
+3. **Deploy to AWS:**
+   - Login to the environment
+   - Push your local commit to your dedicated dev environment
+   - Add environment variables per below
 
-3. **Configure Environment Variables:**
+4. **Configure Environment Variables:**
    - Add all variables from `.env.local`
    - Ensure `NEXT_PUBLIC_*` prefix for client-side variables
 
-See [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md) for detailed instructions.
+See [README.md](./README.md) for detailed instructions.
 
 ---
 
 ## 📚 Documentation
 
 - **[Quick Start Guide](./docs/QUICK_START.md)** - Get started quickly
-- **[Deployment Guide](./DEPLOYMENT_GUIDE.md)** - Deploy to production
-- **[Project Status](./docs/PROJECT_STATUS.md)** - Current project state
-- **[Documentation Index](./docs/DOCUMENTATION_INDEX.md)** - All documentation
-- **[Cleanup Summary](./CLEANUP_COMPLETE.md)** - Recent codebase cleanup
+- **[Deployment Guide](./README.md)** - Deploy to dev
+- **[Project Status](https://github.com/orgs/metacampus-org/projects/1)** - Current project state
+- **[Documentation Index](./docs/*)** - *All documentation*
 
 ---
 
@@ -285,10 +308,10 @@ See [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md) for detailed instructions.
 
 Contributions are welcome! Please follow these steps:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+1. Clone the repository
+2. Create a named developer branch (`git checkout -b metacampus-org/metacampus-*`)
+3. Commit your changes (`git commit -m 'your-branch-commit-message'`)
+4. Push to the branch (`git push origin your-branch/your-commit`)
 5. Open a Pull Request
 
 ---
@@ -301,7 +324,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 🔗 Links
 
-- **Live Demo:** [Coming Soon]
+- **Live Demo:** [demo.metacampus.org]
 - **Documentation:** [docs/](./docs/)
 - **Algorand Explorer:** [Lora TestNet](https://lora.algokit.io/testnet)
 - **Pera Wallet:** [perawallet.app](https://perawallet.app)
@@ -312,13 +335,16 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 - **Algorand Foundation** - Blockchain infrastructure
 - **Pera Wallet** - Wallet integration
-- **Vercel** - Hosting and deployment
+- **AWS** - Hosting and deployment
 - **Next.js Team** - Framework
 - **shadcn/ui** - UI components
 
 ---
 
 ## 📞 Support
+
+- **Account Specific Support** - support@metacampus.org
+- **General Inquiries** - info@metacampus.org
 
 ---
 
@@ -340,7 +366,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ### Planned MainNet Release (v1.3.0)
 - ⏭️ MainNet deployment & GTM
-- ⏭️ Integrations with existing SIS systems
+- ⏭️ Integrations with existing SIS/CM systems
 
 ---
 
@@ -349,7 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 - **Version:** 1.0.0
 - **Status:** Production Ready ✅
 - **Network:** Algorand TestNet
-- **Last Updated:** October 22, 2025
+- **Last Updated:** November 27, 2025
 
 ---
 
