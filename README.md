@@ -18,7 +18,7 @@ The solution architecture will be made up of multiple microservice containers co
 ## **For institutional clients intending to participate in EQ2 DAO Governance** an Alogrand Virtual Machine (AVM) Algod Node 4.3.0 or latest running in-spec Algod Node will be required (this is not a microservice).
 
 ## **Open Source Intent**
-metaCAMPUS intends to open source an alpha release of the components above with an MIT attribution license for Algorand Testnet Pilot Customers for a period of no longer than three months before releasing the ability to go-live on Algorand main-net.
+This repository will remain "metaCAMPUS Open Source" in order to alpha release the architectural components above with an MIT attribution license that will be made available for Algorand Testnet Pilot Customers for a period of no longer than three months before releasing the ability to go-live on Algorand main-net.
 
 ## **Developer Wiki**
 | Developer   |  Username    |
