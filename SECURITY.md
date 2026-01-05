@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Reporting a Vulnerability
-- If you discover a security vulnerability, please report it privately to the SCRUM lead (Charles) or email info@metacampus.org.
+- If you discover a security vulnerability, please report it privately to the SCRUM lead (Charles) or email charles@metacampus.org.
 - Do not disclose vulnerabilities publicly until they have been reviewed and remediated.
 - Provide as much detail as possible to help us reproduce and address the issue.
 
