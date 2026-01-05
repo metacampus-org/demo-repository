@@ -3,7 +3,7 @@
 Thank you for your interest in contributing! Please follow these guidelines to help us maintain a secure, high-quality, and collaborative project.
 
 ## Branching & Workflow
-- All development must occur on a dev branch named with your username and a short task description (e.g., `chuck/auth-middleware`).
+- All development must occur on a dev branch named with your username and a short task description (e.g., `charles/auth-middleware`).
 - Never commit directly to `master` or `main`.
 - Each commit should be small, intentional, and attributable to a single developer.
 - All work must be reviewed via pull request before merging.
