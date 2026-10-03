@@ -1,7 +1,7 @@
 {
   "contract": {
     "name": "MetacampusBadge",
-    "desc": "Raw application args, not ABI methods. Arg 0 is the method name (create_badge_request, approve_badge_request, create_meta_badge, or verify_badge). Arg 1 is an id. Create is a NoOp call with application id 0. No application id is recorded in this spec.",
+    "desc": "Raw application args, not ABI methods. Arg 0 is the method name (create_badge_request, approve_badge_request, create_meta_badge, or verify_badge). Arg 1 is an id. A metaBADGE is a course object stored as the badge_data value written by create_meta_badge (the bytes under the badge_data+id key), not as an ABI method. The call stays two raw args. Create is a NoOp call with application id 0. No application id is recorded in this spec.",
     "methods": []
   },
   "source": {
@@ -45,7 +45,7 @@
         },
         "badge_data": {
           "type": "bytes",
-          "descr": "Key is badge_data concatenated with arg 1. Value is arg 1. Written by create_meta_badge.",
+          "descr": "Key is badge_data concatenated with arg 1. create_meta_badge writes arg 1 as the value. That value is a metaBADGE course object: slo is the student learning outcome (string) and curriculum_id is a string. The call stays two raw args. This is not an ABI method and does not add a global state slot.",
           "max_keys": 3
         },
         "approved": {
@@ -73,5 +73,9 @@
   "bare_call_config": {
     "no_op": "ALL"
   },
-  "hints": {}
+  "hints": {},
+  "course": {
+    "slo": "student learning outcome (string)",
+    "curriculum_id": "string"
+  }
 }
