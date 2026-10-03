@@ -49,24 +49,12 @@ BoEBQw==I3ByYWdtYSB2ZXJzaW9uIDYKaW50IDEKcmV0dXJuCg==
 
 Add to `.env.local`:
 ```bash
-NEXT_PUBLIC_BADGE_APP_ID=<733353489>
+NEXT_PUBLIC_BADGE_APP_ID=
 ```
 
-## After Deployment
+## After deployment
 
-Your MetaCAMPUS app will have:
-- ✅ Authentication Contract (App ID: 748159417)
-- ✅ Badge Management Contract (App ID: <new-id>)
-
-Both contracts working together for full functionality!
-
-## Cleanup Lora
-
-To delete the duplicate auth contract (748158465):
-1. Go to Lora → "App Lab"
-2. Find application 748158465
-3. Click delete/remove
-4. Confirm deletion
+Copy the new application id from hosted Lora into `.env.local` as `NEXT_PUBLIC_BADGE_APP_ID`. Do not commit that id. This repo does not run an Algod node.
 
 ---
 
