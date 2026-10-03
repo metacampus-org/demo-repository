@@ -33,9 +33,11 @@ BoEBQw==I3ByYWdtYSB2ZXJzaW9uIDYKaW50IDEKcmV0dXJuCg==
 
 **IMPORTANT - Use these exact values:**
 - **Global Byte Slices**: 10
-- **Global Integers**: 2
-- **Local Byte Slices**: 10
-- **Local Integers**: 2
+- **Global Integers**: 10
+- **Local Byte Slices**: 0
+- **Local Integers**: 0
+
+Create is a NoOp application call with application id 0. There is no ABI. Arg 0 is the method name (`create_badge_request`, `approve_badge_request`, `create_meta_badge`, or `verify_badge`) and arg 1 is an id. `total_badges` and `total_requests` already use two global integers. `create_badge_request`, `create_meta_badge`, and `approve_badge_request` also `app_global_put` uint keys (`timestamp` concatenated with arg 1, and `approved_at` concatenated with arg 1), so the global integer budget is 10. The program does not use local state. The same schema is in `docs/metacampus-badge.arc32.json`. Do not commit an application id.
 
 ### Step 4: Deploy
 
