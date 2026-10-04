@@ -57,9 +57,8 @@ npm install
 # or
 pnpm install
 
-# Set up environment variables
-cp .env.example .env.local
-# Edit .env.local with your configuration
+# Set environment variables in .env.local (gitignored). There is no .env.example in this repo.
+# Do not commit app ids or keys.
 
 # Run development server
 npm run dev
@@ -89,8 +88,10 @@ NEXT_PUBLIC_INDEXER_PORT=443
 NEXT_PUBLIC_INDEXER_TOKEN=
 
 # Smart Contract App IDs (TestNet)
-NEXT_PUBLIC_AUTH_APP_ID=733353488
-NEXT_PUBLIC_BADGE_APP_ID=733353489
+# App ids are not committed. Set them in .env.local after a hosted Lora TestNet create:
+# NEXT_PUBLIC_APP_ID=
+# NEXT_PUBLIC_ALGORAND_APP_ID=
+# NEXT_PUBLIC_BADGE_APP_ID=
 
 # Network Configuration
 NEXT_PUBLIC_NETWORK=TestNet
@@ -149,17 +150,9 @@ metacampus/
 
 ## 🔐 Smart Contracts
 
-### Deployed on Algorand TestNet
+### TestNet contracts
 
-#### Authentication Contract
-- **App ID:** `733353488`
-- **Purpose:** User role management (student, university, *corporate admin*, super admin)
-- **Explorer:** [View on Lora](https://lora.algokit.io/testnet/application/733353488)
-
-#### Badge Management Contract
-- **App ID:** `733353489`
-- **Purpose:** Course completion badge issuance and verification
-- **Explorer:** [View on Lora](https://lora.algokit.io/testnet/application/733353489)
+Do not treat a previously used app id as required config. Create the app on hosted Lora TestNet (https://lora.algokit.io/testnet), then put the new id in `.env.local` only.
 
 #### EQ2 Derivative Specialization Token Issuance
 - **App ID:** `*`
@@ -297,7 +290,6 @@ See [README.md](./README.md) for detailed instructions.
 
 ## 📚 Documentation
 
-- **[Quick Start Guide](./docs/QUICK_START.md)** - Get started quickly
 - **[Deployment Guide](./README.md)** - Deploy to dev
 - **[Project Status](https://github.com/orgs/metacampus-org/projects/1)** - Current project state
 - **[Documentation Index](./docs/*)** - *All documentation*
