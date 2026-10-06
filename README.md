@@ -42,3 +42,5 @@ We have created a test environment for developers to build, test and learn on De
 You can use PuTTY or OpenSSH as appropriate and use the keys provided to gain access to each of these servers. Please reach out to info@metacampus.org if you do not have and require a key or experience any issues. Please do not share these keys with anyone and please store them in a "cold" environment that is not easily accessible by the internet like an external drive.
 
 We are creating a collaborative environment for developers to build, test and learn on Dev-3 and Dev-4 before code is pushed to production in the demo environment. These are EC2 machines where docker containers can be deployed, but eventually we will migrate to an EKS/ECS CI/CD pipeline environment per the solution architecture diagram and DevOps Pipeline Workflow.
+
+Powered by [xAI](https://x.ai).
