@@ -43,4 +43,4 @@ You can use PuTTY or OpenSSH as appropriate and use the keys provided to gain ac
 
 We are creating a collaborative environment for developers to build, test and learn on Dev-3 and Dev-4 before code is pushed to production in the demo environment. These are EC2 machines where docker containers can be deployed, but eventually we will migrate to an EKS/ECS CI/CD pipeline environment per the solution architecture diagram and DevOps Pipeline Workflow.
 
-Powered by [xAI](https://x.ai).
+Powered by xAI
