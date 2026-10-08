@@ -47,7 +47,7 @@ export default function RootLayout({
             <Header />
             <main className="flex-1">{children}</main>
             <footer className="border-t border-border py-4 px-4 text-center text-xs text-muted-foreground">
-              <p>Powered by <a className="underline underline-offset-2" href="https://x.ai">xAI</a>.</p>
+              <p><a className="underline underline-offset-2" href="https://x.ai">Powered by xAI</a></p>
             </footer>
           </div>
           <Toaster />
